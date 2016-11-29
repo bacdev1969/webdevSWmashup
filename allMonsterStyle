@@ -1,0 +1,10 @@
+.features {
+  position: fixed;
+  height: 250px;
+  width: 120%;
+  left:0;
+  bottom : 0;
+  background-color: black;
+  color:white;
+  overflow: scroll;
+}

@@ -1,0 +1,31 @@
+.features {
+  position: fixed;
+  height: 250px;
+  width: 120%;
+  left:0;
+  bottom : 0;
+  background-color: black;
+  color:white;
+  overflow: scroll;
+}
+.hilight {
+  background-color: #faf;
+}
+.lolight:hover {
+  background-color #fef;
+}
+.monster{
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.coolName{
+  padding-right: 20px;
+  font-size:larger;
+  font-weight: bold;
+}
+li {
+  list-style: none;
+}
+*{
+  font-family: sans-serif;
+}
